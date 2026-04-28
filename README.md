@@ -23,7 +23,7 @@ Analizar el comportamiento de ventas para:
 
 * **SQL** → Análisis y consultas de datos
 * **Power BI** → Visualización y construcción de dashboard
-* **Pentaho (Kettle)** → Procesos ETL (extracción, transformación y carga de datos)
+* **Pentaho ** → Procesos ETL (extracción, transformación y carga de datos)
 
 ---
 
